@@ -1,1 +1,34 @@
-# kssksks
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-widht, initial-scale=1.0">
+    <meta name="keywords" content="programacao, html,css, javascript">
+    <meta name="author" content="vitor.w">
+    <title>meu primeiro site</title>
+</head>
+<body style="background: rgb(95, 95, 180);">
+    <hr>
+
+    <a href="https://www.youtube.com/watch?v=Wu3Y_v8JeE8">youtube </a><br>
+    <a href="https://www.youtube.com/watch?v=m3I3-KTJbtY&list=RDm3I3-KTJbtY&start_radio=1">link bão </a><br>
+
+        <img src="c:\sites\meu _primeiro_site\img\slipknot 2.jpg" width="400">
+        <img scr="c:\sites\meu _primeiro_site\img\slipknot.jpg">
+
+        </h1>meu primeiro site</h1>
+    <h2>meu primeiro site</h2>
+    <h3>meu primeiro site</h3>
+    <h4>meu primeiro site</h4>
+    <h5>meu primeiro site</h5>
+    <h6>meu primeiro site</h6>
+
+    <h1>PINTO ERETO</h1>
+    <h1>AMO PAL ERGUIDO</h1>
+
+    <p>meu primeiro paragrafo</p>
+    <p>quero meu relatorio <strong> para amanha</strong></p>
+</body>
