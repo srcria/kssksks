@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-widht, initial-scale=1.0">
     <meta name="keywords" content="programacao, html,css, javascript">
     <meta name="author" content="vitor.w">
-    <title>meu primeiro site</title>
+    <title>meu primeiro site</title> 
 </head>
 <body style="background: rgb(95, 95, 180);">
     <hr>
